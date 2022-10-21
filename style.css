@@ -100,7 +100,8 @@ h2{
 p{
   color: White;
   padding-bottom: 50px;
-
+  font-family: 'Inter', sans-serif;
+  font-weight: 50;
 }
 
 h3{
